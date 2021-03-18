@@ -42,6 +42,6 @@
         <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="Node" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"/>
+    <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" alt="SCSS" width="40" height="40"/>
   </a>
 </p>
