@@ -1,4 +1,4 @@
-## [![tom lebeodkins's header](https://www.canva.com/design/DAEZIOhMLiU/view)](https://tomleb3.github.io/portfolio/)
+## [![tom lebeodkins's header](imgs/banner.JPG)](https://tomleb3.github.io/portfolio/)
 
 - 🔭 I’m currently working on Instapound (an Instagram clone)
 - 📖 Check out my [Portfolio](https://tomleb3.github.io/portfolio/)
