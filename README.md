@@ -8,7 +8,7 @@
 <a href="mailto:tomleb3@gmail.com"><img height="30" src="imgs/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working on Instapound (an Instagram clone)
+- 🔭 I’m currently working on [Instapound](https://github.com/tomleb3/instapound) (an Instagram clone)
 - 📖 Check out my [Portfolio](https://tomleb3.github.io/portfolio/)
 - 💬 Ask me about anything
 
