@@ -38,6 +38,9 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://files.readme.io/fd2b05d-vue-logo.png" alt="Vue" width="40" height="40"/>
   </a>
+  <a href="https://vuex.vuejs.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="VueX" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org/" target="_blank">
         <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="Node" width="40" height="40"/>
   </a>
