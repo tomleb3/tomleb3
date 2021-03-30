@@ -1,11 +1,11 @@
 ## [![tom lebeodkins's header](imgs/banner.JPG)](https://tomleb3.github.io/portfolio/)
 
 <p align="center">
-<a href="https://tomleb3.github.io/portfolio/"><img height="30" src="imgs/link-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/tomleb3"><img height="30" src="imgs/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/tomleb3"><img height="30" src="imgs/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tomleb3/"><img height="30" src="imgs/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:tomleb3@gmail.com"><img height="30" src="imgs/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://tomleb3.github.io/portfolio/"><img width="30" height="30" alt="Portfolio" src="imgs/link-solid.svg"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/tomleb3"><img width="30" height="30" alt="Facebook" src="imgs/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/tomleb3"><img width="30" height="30" alt="Instagram" src="imgs/instagram-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tomleb3/"><img width="30" height="30" alt="Linkedin" src="imgs/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:tomleb3@gmail.com"><img width="30" height="30" alt="Email me" src="imgs/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
 - 🔭 I’m currently working on [Instapound](https://github.com/tomleb3/instapound) (an Instagram clone)
