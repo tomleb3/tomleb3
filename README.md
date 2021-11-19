@@ -12,7 +12,9 @@
 - 📖 Check out my [Portfolio](https://tomleb3.github.io/portfolio/)
 - 💬 Ask me about anything
 
-<h3 align="left">Languages and Tools:</h3>
+<hr />
+
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS3" width="40" height="40"/>
