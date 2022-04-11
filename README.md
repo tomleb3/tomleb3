@@ -1,4 +1,4 @@
-## [![tom lebeodkins's header](imgs/banner.PNG)](https://tomleb3.github.io/portfolio/)
+## [![tom lebeodkins's header](imgs/banner.PNG)](https://tomleb.dev)
 
 <p align="center">
 <a href="https://tomleb3.github.io/portfolio/"><img width="30" height="30" alt="Portfolio" src="imgs/link-solid.svg"></a>&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on [Instapound](https://github.com/tomleb3/instapound) (an Instagram clone)
-- 📖 Check out my [Portfolio](https://tomleb3.github.io/portfolio/)
+- 📖 Check out my [Portfolio](https://tomleb.dev)
 - 💬 Ask me about anything
 
 <hr />
