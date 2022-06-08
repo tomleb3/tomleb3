@@ -1,4 +1,4 @@
-## [![tom lebeodkins's header](imgs/banner.PNG)](https://tomleb.dev)
+## [![tom lebeodkins's header](imgs/banner1.PNG)](https://tomleb.dev)
 
 <p align="center">
 <a href="https://tomleb3.github.io/portfolio/"><img width="30" height="30" alt="Portfolio" src="imgs/link-solid.svg"></a>&nbsp;&nbsp;
